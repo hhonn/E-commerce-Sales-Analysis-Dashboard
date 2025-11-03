@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Documentation files (ไม่ต้อง Push ขึ้น GitHub)
+SCREENSHOT_CHECKLIST.md
+SOURCE_CODE_EXTRACT.md
+WORD_REPORT_TEMPLATE.md
+QUICK_START.md
+CHAPTER_2_USER_MANUAL.md
+PROJECT_SUMMARY.md
+REPORT_GUIDE.md
+IMPORT_CSV_GUIDE.md
+sample_import.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Data files (เก็บไว้ local)
+*.csv
+*.xlsx
+*.pbix
+
+# Logs
+logs/
+*.log

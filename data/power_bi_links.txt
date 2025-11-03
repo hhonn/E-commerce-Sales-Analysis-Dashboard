@@ -1,0 +1,4 @@
+Link you can send in email: https://app.powerbi.com/view?r=eyJrIjoiNzI1MGEyZDktMTE0ZC00NjAxLWEwZTAtMDJjY2RmMGU4ODFlIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D
+
+HTML to paste on a website: 
+<iframe title="E-commerce_Sales_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzI1MGEyZDktMTE0ZC00NjAxLWEwZTAtMDJjY2RmMGU4ODFlIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
