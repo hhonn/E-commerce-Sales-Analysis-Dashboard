@@ -336,7 +336,7 @@ https://username.github.io/ecommerce-sales-dashboard
 
 ---
 
-## 🎓 Tips สำหรับนักศึกษา
+## 🎓 Tips
 
 1. **บันทึก URL** ไว้ให้ดี - จะต้องใส่ในรายงาน
 2. **Capture Screenshot** ทุกหน้าเก็บไว้
@@ -364,7 +364,6 @@ https://username.github.io/ecommerce-sales-dashboard
 4. ✅ ทดสอบ Website
 5. ✅ บันทึก URL และ Screenshot
 
-**คุณทำได้แล้ว! 🎉**
 
 ---
 
